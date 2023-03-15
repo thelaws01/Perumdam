@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">pipa</string>
+    <string name="splash_name">PERUMDAM Tirta Kencana Samarinda © 2022</string>
+    <string name="term">Dengan Mendaftar, Berarti Anda Setuju dengan <b>Ketentuan dan Kebijakan Privasi</b> Aplikasi.</string>
+    <string name="lokasi"> <strong>Info  :</strong> </string>
+    <string name="berita"><u>Berita Seputar Perundam</u></string>
+
+    <string name="lengkap">Selengkapnya</string>
+    <string name="sedikit">Tutup</string>
+
+    <string-array name="kecamatan">
+        <item>Karang Mumus</item>
+        <item>Bugis</item>
+        <item>Pasar Pagi</item>
+        <item>Pelabuhan</item>
+        <item>Sungai Pinang Luar</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
